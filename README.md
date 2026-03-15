@@ -1,8 +1,8 @@
 # Hi, I'm Dramere Graham
 
-**Senior Director, Business Architect @ Travelers Insurance | Aspiring Product Manager**
+**Senior Director, Business Architect @ Travelers Insurance**
 
-I'm a technology professional with 12+ years of experience bridging business strategy and technical execution in the insurance industry. I specialize in translating complex stakeholder needs into scalable product solutions, leading cross-functional teams, and modernizing legacy systems into event-driven platforms.
+I'm a technology professional with 8 years of experience bridging business strategy and technical execution in the insurance industry. I specialize in translating complex stakeholder needs into scalable product solutions, leading cross-functional teams, and modernizing legacy systems into event-driven platforms.
 
 Currently exploring the intersection of product management, platform architecture, and AI-driven solutions.
 
