@@ -28,9 +28,9 @@ Currently exploring the intersection of product management, platform architectur
 
 ### Community
 
-- **Board Member** — Camp Harkness Foundation
+- **Board Member** — Camp Harkness Foundation, Hartford Youth Foundation
 - **Volunteer** — Connecticut Draft Horse Rescue
-- **UConn Alum**
+
 
 ### Let's Connect
 
